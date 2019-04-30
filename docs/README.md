@@ -1,7 +1,7 @@
 # Welcome to Causerie Linux Pages
 
 add test note:
-> [常用linux命令](https://github.com/amazingsharings/CauserieLinux/dailycmds)
+> [常用linux命令](https://amazingsharings.github.io/CauserieLinux/dailycmds)
 
 You can use the [editor on GitHub](https://github.com/amazingsharings/CauserieLinux/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
