@@ -7,7 +7,7 @@ add test note:
 
 ### 基础
 
-1. [Linux 是什么？](https://amazingsharings.github.io/CauserieLinux/what\ is\ linux)
+1. [Linux 是什么？](https://amazingsharings.github.io/CauserieLinux/whatIsLinux)
 2. 文件和目录
 3. 用户和用户组管理
 4. 磁盘管理
