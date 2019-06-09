@@ -3,38 +3,20 @@
 add test note:
 > [常用linux命令](https://amazingsharings.github.io/CauserieLinux/dailycmds)
 
-You can use the [editor on GitHub](https://github.com/amazingsharings/CauserieLinux/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## content
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 基础
 
-### Markdown
+1. [Linux 是什么？](https://amazingsharings.github.io/CauserieLinux/what\ is\ linux)
+2. 文件和目录
+3. 用户和用户组管理
+4. 磁盘管理
+5. 应用管理
+6. vi/vim
+7. shell
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 进阶
 
-```markdown
-Syntax highlighted code block
+1. 文件系统
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amazingsharings/CauserieLinux/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+待填充
